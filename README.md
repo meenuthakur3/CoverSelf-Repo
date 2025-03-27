@@ -1,4 +1,5 @@
-CoverSelfAssignment
+Retool API Generator
+https://retool.com/api-generator
 │── src/main/java          # Main Java source files  
 │── src/test/java          # Test cases  
 │── src/test/resources     # Contains testng.xml  
